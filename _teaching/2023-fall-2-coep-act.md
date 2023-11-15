@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate Course"
 permalink: /teaching/2023-fall-teaching-2
 venue: "Department of Computer Science and Engineering, COEP Technological University, Pune"
-date: "Fall 2023"
+date: 2023-06-17
 location: "Online"
 ---
 
