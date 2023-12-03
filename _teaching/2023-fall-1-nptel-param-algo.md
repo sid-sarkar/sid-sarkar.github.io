@@ -8,7 +8,7 @@ date: 2023-08-01
 location: "Online"
 ---
 
-Conducted problem-solving sessions for the graduate course [Parameterized Algorithms](https://onlinecourses.nptel.ac.in/noc23_cs102).
+Conducted problem-solving [sessions](https://www.youtube.com/playlist?list=PLlbnmVYMiuuwIxQdp8mN1cPOByMFWJyj3) for the graduate course [Parameterized Algorithms](https://onlinecourses.nptel.ac.in/noc23_cs102).
 
 Heading 1
 ======
