@@ -6,7 +6,7 @@ excerpt: 'This paper is about generalized minimum-membership geometric set cover
 date: 2024-02-01
 venue: 'CALDAM 2024 (To appear)'
 paperurl: ''
-citation: '10th International Conference on Algorithms and Discrete Applied Mathemetics.'
+citation: '10th International Conference on Algorithms and Discrete Applied Mathematics.'
 ---
 This [paper](https://arxiv.org/abs/2312.02722) is about generalized minimum-membership geometric set cover for unit squares.
 
